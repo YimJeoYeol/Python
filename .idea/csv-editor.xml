@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\Administrator\Desktop\TKIT\교안\데이터분석\이커머스\ch3-강의자료및코드\code\advertising.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\2_고객별_연간_지출액_예측#LinearRegression\ecommerce.csv">
           <value>
             <Attribute>
@@ -18,6 +11,13 @@
           </value>
         </entry>
         <entry key="\3_광고_반응률_예측#LogisticRegression\advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\advertising.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
