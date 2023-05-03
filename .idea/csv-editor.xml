@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\4_고객_이탈_예측#KNN\churn.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\advertising.csv">
           <value>
             <Attribute>
