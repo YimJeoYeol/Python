@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\5_구매_요인_분석#의사결정나무\galaxy.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\advertising.csv">
           <value>
             <Attribute>
