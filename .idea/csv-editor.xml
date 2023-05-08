@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\6_promotion#random_forest\member.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\6_promotion#random_forest\transaction.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\advertising.csv">
           <value>
             <Attribute>
